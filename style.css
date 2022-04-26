@@ -1,0 +1,25 @@
+.bgd{
+    background-image: url('image_2.jpg');
+    background-size: 1500px;
+}
+
+#heading{
+    background: rgb(240,128,128);
+    background: linear-gradient(90deg, rgba(240,128,128,1) 0%, rgba(173,216,230,1) 100%);
+    margin: 0;
+    width: 100%;
+}
+
+body{
+    color:white;
+}
+
+.footer{
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color:grey;
+  line-height: 3;
+  text-align: center;
+}
